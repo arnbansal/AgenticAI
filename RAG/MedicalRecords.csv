@@ -1,0 +1,20 @@
+﻿Patient ID,Name,Date of Visit,Diagnosis / Chief Complaint,Tests / Vitals,Medication / Treatment,Notes / Follow-up
+P1001,John Doe,05-01-2025,Type 2 Diabetes Mellitus,A1C: 7.4%,Metformin 500 mg BID,Diet and exercise advised
+P1001,John Doe,10-04-2025,Diabetes follow-up,A1C: 7.1%,Continue Metformin,Improved control
+P1002,Alice Smith,14-02-2025,Seasonal Allergic Rhinitis,—,Cetirizine 10 mg PRN,Pollen trigger
+P1002,Alice Smith,18-06-2025,Allergy follow-up,—,Continue Cetirizine,Symptoms controlled
+P1003,Robert Miller,22-01-2025,Acute Bronchitis,Temp: 100.1°F,Azithromycin 500 mg,Hydration advised
+P1003,Robert Miller,12-02-2025,Post-infection review,Lungs clear,No medication,Resolved
+P1004,Priya Verma,03-03-2025,Iron Deficiency Anemia,Hb: 9.8 g/dL,Ferrous sulfate,Nutrition counseling
+P1004,Priya Verma,07-06-2025,Anemia follow-up,Hb: 11.9 g/dL,Continue iron,Improvement noted
+P1005,Michael Chen,18-01-2025,GERD,—,Omeprazole 20 mg,Avoid spicy food
+P1005,Michael Chen,29-03-2025,GERD follow-up,—,Omeprazole 40 mg,Partial relief
+P1006,Sara Khan,08-02-2025,Migraine,BP: 116/74,Sumatriptan PRN,Stress management
+P1006,Sara Khan,20-05-2025,Migraine follow-up,—,Continue PRN meds,Reduced frequency
+P1007,David Brown,30-01-2025,Mild Hypertension,BP: 140/90,Lifestyle changes,Low-salt diet
+P1007,David Brown,25-04-2025,Hypertension follow-up,BP: 132/84,Amlodipine 5 mg,Monitor weekly
+P1008,Neha Patel,11-02-2025,Urinary Tract Infection,Urine culture +,Nitrofurantoin,Fluids advised
+P1008,Neha Patel,01-03-2025,UTI review,Urine normal,Stop antibiotics,Resolved
+P1009,Rahul Mehta,14-01-2025,Acute Gastritis,—,Pantoprazole,Avoid NSAIDs
+P1010,Emily Davis,20-02-2025,Hypothyroidism,TSH: 8.2,Levothyroxine 50 mcg,Repeat labs
+P1010,Emily Davis,22-05-2025,Thyroid follow-up,TSH: 3.1,Continue dose,Stable
